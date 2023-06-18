@@ -1,3 +1,5 @@
 test for desktop commit 
 
 added line through git desktop commit
+
+added one more line through git bash commit
